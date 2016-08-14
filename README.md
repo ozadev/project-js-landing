@@ -1,1 +1,1 @@
-# project js landing
+# project-js-landing
