@@ -1,5 +1,5 @@
-## Project js landing
-It's one-week project of Ignite javascript courses block.
+## Project - javascript - landing page
+It's one-week project of Ignite javascript courses block. All dynamic of landing page (SMAK psd template) realized at pure javascript. Bootstrap 3 grid system used to make page responsive.
 Link to result: https://ozadev.github.io/project-js-landing
 Link to psd template: https://github.com/ozadev/project-js-landing/tree/gh-pages/task/template.psd
 Link to course material: https://github.com/ozadev/ignite/tree/master/JS
